@@ -1,0 +1,83 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    margin: 0px;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+    background-color: skyblue
+    
+}
+.half-part{
+    width: 40%;
+    float: left;
+    padding: 3%;
+    margin-left: 3%;
+}
+.maroon-highlight{
+    color: maroon;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: saddlebrown;
+}
+#button{
+    text-decoration-color: blue;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color:firebrick ;
+    font-weight: 700;
+}
+.half-part img{
+    width: 100%;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+    text-align: left;
+    font-weight: 700;
+}
+.onethird-part{
+    width: 25%;
+    float: left;
+    padding: 2%;
+    margin-left: 3%;
+    border-radius: 20px;
+}
+.onethird-part img{
+    width: 100%;
+    border-radius: 20px;
+}
+#lower-banner{
+    padding: 100px 30px;
+}
+.last-part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    background-image: url(images/Group.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px 50px;
+    border-radius: 45px;
+}
+#line{
+    display: block;
+    font-weight: bold;
+    text-decoration-color: seashell;
+}
